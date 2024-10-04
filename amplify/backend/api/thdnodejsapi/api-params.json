@@ -4,7 +4,7 @@
       "name": "/getTHDateRanges",
       "lambdaFunction": "getTHDateRangesLBFunction",
       "privacy": {
-        "open": true
+        "open": false
       },
       "policyResourceName": "/getTHDateRanges"
     }
@@ -16,12 +16,12 @@
       "lambdaFunction": "getTHDateRangesLBFunction"
     }
   ],
-  "privacy": {
+  /**"privacy": {
     "auth": 0,
     "unauth": 0,
     "authRoleName": "amplify-thdnodejs-dev-163549-authRole",
     "unAuthRoleName": "amplify-thdnodejs-dev-163549-unauthRole"
-  },
+  },**/
   "dependsOn": [
     {
       "category": "function",
