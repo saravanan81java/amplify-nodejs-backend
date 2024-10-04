@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-thdnodejs-dev-163549-authRole",
+      "UnauthRoleArn": "arn:aws:iam::632534509025:role/amplify-thdnodejs-dev-163549-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::632534509025:role/amplify-thdnodejs-dev-163549-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-thdnodejs-dev-163549-deployment",
+      "UnauthRoleName": "amplify-thdnodejs-dev-163549-unauthRole",
+      "StackName": "amplify-thdnodejs-dev-163549",
+      "StackId": "arn:aws:cloudformation:us-east-2:632534509025:stack/amplify-thdnodejs-dev-163549/a6cfe510-3377-11ec-bb6d-022c22326d1a",
+      "AmplifyAppId": "d38tpdfvdxbcfm"
+    },
+    "categories": {
+      "function": {
+        "getTHDateRangesLBFunction": {
+          "deploymentBucketName": "amplify-thdnodejs-dev-163549-deployment",
+          "s3Key": "amplify-builds/getTHDateRangesLBFunction-34526c6b652b4d364a73-build.zip"
+        }
+      }
+    }
+  }
+}
