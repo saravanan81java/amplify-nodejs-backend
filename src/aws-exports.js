@@ -6,7 +6,7 @@ const awsmobile = {
     "aws_cloud_logic_custom": [
         {
             "name": "thdnodejsapi",
-            "endpoint": "https://sm6ky8u3h6.execute-api.us-east-2.amazonaws.com/dev",
+            "endpoint": "https://sm6ky8u3h6.execute-api.us-east-2.amazonaws.com/dev/",
             "region": "us-east-2"
         }
     ]
